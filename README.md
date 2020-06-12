@@ -10,7 +10,7 @@ First Open Source Flutter based Beautiful Material Design Music Player(Online Ra
 
 * [x] Android (iOS Coming Soon)
 
-  * [x] Fetch local songs (Inbuilt Permission)
+  * [ ] Fetch local songs (Inbuilt Permission)
   * [x] Beautiful UI with multiple themes(Coming Soon)
   * [x] Animation
   * [x] Full Fledged Example
